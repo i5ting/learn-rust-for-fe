@@ -14,7 +14,7 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
 
 ## 开发者
 
-- https://github.com/justjavac/
+- https://github.com/justjavac
 - https://github.com/yisibl
 - https://github.com/Brooooooklyn
 
