@@ -19,5 +19,6 @@ rust在前端工具链的影响越来越大，目前可以看到next.js对rust�
 ## 参考
 
 - https://nextjs.org/blog/next-12#faster-builds-and-fast-refresh-with-rust-compiler
+  - 我看Next.js：一个更现代的海王 https://mp.weixin.qq.com/s/5Ir7EoHLo37bs6W5WNa-Tw
 
 其他大家补充，欢迎pr
