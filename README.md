@@ -9,6 +9,7 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
 - https://github.com/swc-project/swc  对标ts/babel
 - https://github.com/HerringtonDarkholme/vue-compiler 对标 vue-template-compiler
 - https://github.com/rslint/rslint 对标eslint
+- https://github.com/yisibl/resvg-js  A high-performance SVG renderer, powered by Rust based resvg and napi-rs.
 
 ## 工具
 
