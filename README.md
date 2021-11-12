@@ -1,6 +1,8 @@
 Rust语言在前端工具链的影响越来越大，目前可以看到next.js对rust重仓，未来可能是一个很好的解决前端体验的方向
 
-《Rust Is The Future of JavaScript Infrastructure》  https://leerob.io/blog/rust  ，作者是Vercel的开发者关系主管，这篇文章和叔的观点一样，自备梯子
+《Rust Is The Future of JavaScript Infrastructure》  https://leerob.io/blog/rust  ，作者是Vercel的开发者关系主管，这篇文章和叔的观点一样，自备梯子。
+
+未来随着webassembly普及，rust才能变成应用级别的。
 
 ## 前端工具链项目
 
