@@ -17,6 +17,7 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
     - dprint： 基于SWC构建，提供类似Prettier的功能，但是比 Prettier 快30倍
     - Parcel 2: 基于SWC，打包性能提升10倍
     - https://github.com/Brooooooklyn/swc-node
+    - https://github.com/TypeStrong/ts-node 支持swc
 - https://github.com/HerringtonDarkholme/vue-compiler 对标 vue-template-compiler
 - https://github.com/rslint/rslint 对标eslint
 - https://github.com/yisibl/resvg-js  A high-performance SVG renderer, powered by Rust based resvg and napi-rs.
