@@ -9,6 +9,7 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
 - https://github.com/volta-cli/volta 对标nvm+npm
     - https://github.com/Schniz/fnm
 - https://github.com/justjavac/postcss-rs  对标postcss
+- https://github.com/CGQAQ/rusty-source-map 对标[Mozilla/source-map](https://github.com/mozilla/source-map)
 - https://github.com/swc-project/swc  对标ts/babel
     - swcpack： SWC的bundle工具，类似于webpack
     - swc-css: SWC的CSS parser，类似PostCSS
