@@ -23,10 +23,11 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
 - https://github.com/HerringtonDarkholme/vue-compiler 对标 vue-template-compiler
 - https://github.com/rslint/rslint 对标eslint
 - https://github.com/yisibl/resvg-js  A high-performance SVG renderer, powered by Rust based resvg and napi-rs.
-- NAPI-RS: a minimal library for building pre-compiled Node.js addons in Rust https://napi.rs/
-- Neon: Electrify your Node with the power of Rust https://neon-bindings.com/
-- Tauri: Electron alternative Tauri written in Rust https://github.com/tauri-apps/tauri
-- Boa (JS engine in Rust) – https://github.com/boa-dev/boa
+- https://napi.rs/ NAPI-RS: a minimal library for building pre-compiled Node.js addons in Rust 
+- https://neon-bindings.com/ Neon: Electrify your Node with the power of Rust 
+- https://github.com/tauri-apps/tauri Tauri: Electron alternative Tauri written in Rust
+- https://github.com/boa-dev/boa  Boa (JS engine in Rust)
+- https://github.com/DrSensor/rs-jest 一个用于跑 Rust 单元测试的 jest transformer，安装之后只需要简单配置一下 jest.config.js 即可。很老，可能需要更新
 
 
 ## 开发者
