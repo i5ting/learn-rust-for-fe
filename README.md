@@ -28,6 +28,7 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
 - https://github.com/tauri-apps/tauri Tauri: Electron alternative Tauri written in Rust
 - https://github.com/boa-dev/boa  Boa (JS engine in Rust)
 - https://github.com/DrSensor/rs-jest 一个用于跑 Rust 单元测试的 jest transformer，安装之后只需要简单配置一下 jest.config.js 即可。很老，可能需要更新
+- https://github.com/image-rs/image-png PNG decoding and encoding library in pure Rust
 
 
 ## 开发者
