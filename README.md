@@ -14,7 +14,7 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
     - swcpack： SWC的bundle工具，类似于webpack
     - swc-css: SWC的CSS parser，类似PostCSS
     - Deno: JS/TS的runtime，但是也提供诸如linter, code formatter, docs generator, bundle这些功能， 当然基于SWC
-    - Rome： Babel的作者Sebastian创建，目前已经在进行Rust重写，应该会基于SWC，项目代码 https://github.com/rome/tools
+    - Rome： Babel的作者Sebastian创建，目前已经在进行Rust重写，基于rslint_parser(https://github.com/rslint/rslint)，项目代码 https://github.com/rome/tools
     - dprint： 基于SWC构建，提供类似Prettier的功能，但是比 Prettier 快30倍
     - Parcel 2: 基于SWC，打包性能提升10倍
     - https://github.com/Brooooooklyn/swc-node
