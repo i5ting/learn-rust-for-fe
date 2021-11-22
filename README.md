@@ -1,8 +1,12 @@
-Rust语言在前端工具链的影响越来越大，目前可以看到next.js对rust重仓，未来可能是一个很好的解决前端体验的方向
+说rust是webassembly未来，目前看还不是，多语言里大家几率不会差太多。web server已经卷死了，无机会。云原生是go的地盘，难下手，机器学习py才是王者，大数据和后端Java天下，可玩的有限。综上，JS依然是应用软件最好的选择。但rust做基建，提供更好的开发体验，倒是大有可为的。
+
+当然rust是写前端基建，是裆下趋势。 
+
+Rust语言在前端工具链的影响越来越大，目前可以看到next.js对rust重仓，招揽大量人才，swc作者，rollup作者等等，未来可能是一个很好的解决前端体验的方向
 
 《Rust Is The Future of JavaScript Infrastructure》  https://leerob.io/blog/rust  ，作者是Vercel的开发者关系主管，这篇文章和叔的观点一样，自备梯子。
 
-未来随着webassembly普及，rust才能变成应用级别的。
+很多东西都是上错花轿嫁对郎，比如mvc，比node，如今又多了rust。必然雄起！未来随着webassembly普及，rust才能变成应用级别的。
 
 ## 前端工具链项目
 
