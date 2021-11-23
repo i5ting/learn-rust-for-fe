@@ -36,6 +36,7 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
 - https://github.com/gfx-rs/wgpu Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - https://github.com/rust-analyzer/rust-analyzer A Rust compiler front-end for IDEs
 - https://github.com/38/plotters Plotters is drawing library designed for rendering figures, plots, and charts, in pure rust. Plotters supports various types of back-ends, including bitmap, vector graph, piston window, GTK/Cairo and WebAssembly.
+- https://github.com/leizongmin/htmlstream-rust Lightweight HTML parser
 
 ## 开发者
 
