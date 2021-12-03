@@ -47,7 +47,8 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
 
 ## 工具
 
-- https://searchfox.org/
+- https://searchfox.org/  Searchfox is a source code indexing tool for Mozilla Firefox. It indexes C++, Rust, and JavaScript code. 
+- https://github.com/meilisearch/MeiliSearch  Powerful, fast, and an easy to use search engine
 
 ## 参考
 
