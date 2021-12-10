@@ -38,6 +38,7 @@ Rust语言在前端工具链的影响越来越大，目前可以看到next.js对
 - https://github.com/38/plotters Plotters is drawing library designed for rendering figures, plots, and charts, in pure rust. Plotters supports various types of back-ends, including bitmap, vector graph, piston window, GTK/Cairo and WebAssembly.
 - https://github.com/leizongmin/htmlstream-rust Lightweight HTML parser
 - https://github.com/djc/askama Type-safe, compiled Jinja-like templates for Rust
+- https://github.com/facebook/relay/tree/v13.0.0-rc.1/compiler relay compiler was written in rust
 
 ## 开发者
 
