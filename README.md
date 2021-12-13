@@ -4,8 +4,7 @@
 
 Rust语言在前端工具链的影响越来越大，目前可以看到next.js对rust重仓，招揽大量人才，swc作者，rollup作者等等，未来可能是一个很好的解决前端体验的方向
 
-《Rust Is The Future of JavaScript Infrastructure》  https://leerob.io/blog/rust  ，作者是Vercel的开发者关系主管，这篇文章和叔的观点一样，自备梯子。
-
+《Rust Is The Future of JavaScript Infrastructure》  https://leerob.io/blog/rust（[中文翻译](https://mp.weixin.qq.com/s?__biz=MzkxNDIzNTg4MA==&mid=2247485792&idx=1&sn=682a4dee7ce4d3b47a81baf9ebd7a98a&chksm=c170c1e7f60748f17585d6bfca0cff6edbf71bab95f0a4a1ea0bcf2d43c16d1722666d9fadc1&token=735858150&lang=zh_CN#rd)）  ，作者是Vercel的开发者关系主管，这篇文章和叔的观点一样，自备梯子。
 很多东西都是上错花轿嫁对郎，比如mvc，比node，如今又多了rust。必然雄起！未来随着webassembly普及，rust才能变成应用级别的。
 
 ## 前端工具链项目
