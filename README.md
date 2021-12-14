@@ -58,5 +58,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
   - 我看 Next.js：一个更现代的海王 https://mp.weixin.qq.com/s/5Ir7EoHLo37bs6W5WNa-Tw
 - https://vino.dev/blog/node-to-rust-day-1-rustup/ （自备梯子）
   - 24 天，从 Node 到 Rust
+- https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+  - 官方教程视频导读
 
 其他大家补充，欢迎 pr
