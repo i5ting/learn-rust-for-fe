@@ -39,6 +39,8 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://github.com/djc/askama Type-safe, compiled Jinja-like templates for Rust
 - https://github.com/facebook/relay/tree/v13.0.0-rc.1/compiler relay compiler was written in rust
 - https://github.com/thedodd/trunk  Build, bundle & ship your Rust WASM application to the web.
+- https://github.com/yewstack/yew Rust / Wasm framework for building client web apps
+
 
 ## 开发者
 
