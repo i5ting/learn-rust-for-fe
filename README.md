@@ -60,6 +60,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://rustwiki.org/zh-CN/rust-by-example/ 通过例子学 Rust（官方教程翻译）
 - https://rustcc.gitbooks.io/rustprimer/content/ 初学者教程（社区教程）
 - https://github.com/wtklbm/rust-library-i18n/ Rust 标准库翻译
+- https://course.rs/ Rust语言圣经
 - https://nextjs.org/blog/next-12#faster-builds-and-fast-refresh-with-rust-compiler
   - 我看 Next.js：一个更现代的海王 https://mp.weixin.qq.com/s/5Ir7EoHLo37bs6W5WNa-Tw
 - https://vino.dev/blog/node-to-rust-day-1-rustup/ （自备梯子）
