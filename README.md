@@ -68,5 +68,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
   - 24 天，从 Node 到 Rust
 - https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
   - 官方教程视频导读
+- https://github.com/rust-unofficial/patterns A catalogue of Rust design patterns, anti-patterns and idioms
+
 
 其他大家补充，欢迎 pr
