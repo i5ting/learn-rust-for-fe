@@ -73,6 +73,8 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
   - 官方教程视频导读
 - https://github.com/rust-unofficial/patterns A catalogue of Rust design patterns, anti-patterns and idioms
 - https://www.youtube.com/playlist?list=PL3azK8C0kje1DUJbaOqce19j3R_-tIc4_ rust 编程语言入门教程，from Dave Young
+- https://github.com/TheAlgorithms/Rust All Algorithms implemented in Rust
+- https://github.com/rust-lang/rustlings Rust 小练习
 
 
 其他大家补充，欢迎 pr
