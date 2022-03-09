@@ -43,6 +43,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://github.com/egoist/dum An npm scripts runner written in Rust.
 - https://github.com/devongovett/tree-sitter-highlight A syntax highlighter for Node powered by Tree Sitter. Written in Rust.
 - https://github.com/g-plane/browserslist-rs Rust-ported Browserslist.
+- https://github.com/flo-l/jsonpp-rs UNIX style tool to pretty print json
 
 
 ## 开发者
