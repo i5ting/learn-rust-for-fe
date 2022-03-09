@@ -52,6 +52,11 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://github.com/yisibl
 - https://github.com/Brooooooklyn
 
+## 生态
+
+- https://github.com/actix/actix Actor framework for Rust
+- https://github.com/rust-lang/cargo The Rust package manager
+
 ## 工具
 
 - https://searchfox.org/ Searchfox is a source code indexing tool for Mozilla Firefox. It indexes C++, Rust, and JavaScript code.
