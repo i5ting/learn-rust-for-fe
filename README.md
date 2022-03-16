@@ -64,6 +64,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://github.com/editso/fuso 一款快速 🚀、稳定、跨平台、高效的内网穿透，端口转发工具
 - https://github.com/clap-rs/clap A full featured, fast Command Line Argument Parser for Rust
 - https://github.com/zellij-org/zellij A terminal workspace with batteries included
+- https://github.com/nushell/nushell A new type of shell
 
 ## 参考
 
