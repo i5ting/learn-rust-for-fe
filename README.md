@@ -56,6 +56,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 
 - https://github.com/actix/actix Actor framework for Rust
 - https://github.com/rust-lang/cargo The Rust package manager
+- https://github.com/rustdesk/rustdesk Yet another remote desktop software
 
 ## 工具
 
