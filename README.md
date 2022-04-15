@@ -5,7 +5,7 @@
 Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 对 Rust 重仓，招揽大量人才，swc 作者，rollup 作者等等，未来可能是一个很好的解决前端体验的方向。
 
 《Rust Is The Future of JavaScript Infrastructure》（[原文](https://leerob.io/blog/rust) | [中文翻译](https://mp.weixin.qq.com/s?__biz=MzkxNDIzNTg4MA==&mid=2247485792&idx=1&sn=682a4dee7ce4d3b47a81baf9ebd7a98a) ) ，作者是 Vercel 的开发者关系主管，这篇文章和叔的观点一样，自备梯子。
-很多东西都是上错花轿嫁对郎，比如 mvc，比 Node，如今又多了 Rust。必然雄起！未来随着 WebAssembly 普及，Rust 才能变成应用级别的。
+很多东西都是上错花轿嫁对郎，比如 mvc，比如 Node，如今又多了 Rust。必然雄起！未来随着 WebAssembly 普及，Rust 才能变成应用级别的。
 
 ## 前端工具链项目
 
@@ -38,13 +38,12 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://github.com/leizongmin/htmlstream-rust Lightweight HTML parser
 - https://github.com/djc/askama Type-safe, compiled Jinja-like templates for Rust
 - https://github.com/facebook/relay/tree/v13.0.0-rc.1/compiler relay compiler was written in rust
-- https://github.com/thedodd/trunk  Build, bundle & ship your Rust WASM application to the web.
+- https://github.com/thedodd/trunk Build, bundle & ship your Rust WASM application to the web.
 - https://github.com/yewstack/yew Rust / Wasm framework for building client web apps
 - https://github.com/egoist/dum An npm scripts runner written in Rust.
 - https://github.com/devongovett/tree-sitter-highlight A syntax highlighter for Node powered by Tree Sitter. Written in Rust.
 - https://github.com/g-plane/browserslist-rs Rust-ported Browserslist.
 - https://github.com/flo-l/jsonpp-rs UNIX style tool to pretty print json
-
 
 ## 开发者
 
@@ -72,7 +71,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://rustwiki.org/zh-CN/rust-by-example/ 通过例子学 Rust（官方教程翻译）
 - https://rustcc.gitbooks.io/rustprimer/content/ 初学者教程（社区教程）
 - https://github.com/wtklbm/rust-library-i18n/ Rust 标准库翻译
-- https://course.rs/ Rust语言圣经
+- https://course.rs/ Rust 语言圣经
 - https://nextjs.org/blog/next-12#faster-builds-and-fast-refresh-with-rust-compiler
   - 我看 Next.js：一个更现代的海王 https://mp.weixin.qq.com/s/5Ir7EoHLo37bs6W5WNa-Tw
 - https://vino.dev/blog/node-to-rust-day-1-rustup/ （自备梯子）
@@ -84,6 +83,5 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://github.com/TheAlgorithms/Rust All Algorithms implemented in Rust
 - https://github.com/rust-lang/rustlings Rust 小练习
 - https://github.com/vinodotdev/node-to-rust From JavaScript to Rust ebook
-
 
 其他大家补充，欢迎 pr
