@@ -85,5 +85,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://github.com/rust-lang/rustlings Rust 小练习
 - https://github.com/vinodotdev/node-to-rust From JavaScript to Rust ebook
 - https://tourofrust.com Rust语言之旅, 在线从浅入深的练习常见语法
+- https://github.com/sunface/rust-by-practice Rust 语言实战
+- https://rusty.rs/about.html Rusty Book(锈书)
 
 其他大家补充，欢迎 pr
