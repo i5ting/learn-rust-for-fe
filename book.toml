@@ -1,0 +1,6 @@
+[book]
+authors = ["i5ting"]
+language = "en"
+multilingual = false
+src = "src"
+title = "learn rust from fe"

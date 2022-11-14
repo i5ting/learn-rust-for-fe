@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+.DS_Store
+book
+
+
+# Added by cargo
+
+/target
