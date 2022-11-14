@@ -10,3 +10,6 @@ edition = "2021"
 
 [tasks.run]
 script = "echo hello"
+
+[build-dependencies]
+mdbook = "0.4.21"

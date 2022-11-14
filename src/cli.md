@@ -1,5 +1,7 @@
 ## clap
 
+一个 Rust 工具可以帮我们简化这个过程，它就是 Clap。
+
 https://docs.rs/clap/latest/clap/
 
 ## 小技巧
