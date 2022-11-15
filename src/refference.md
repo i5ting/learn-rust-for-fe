@@ -7,3 +7,4 @@
 - https://rust-lang.github.io/api-guidelines/about.html
 - https://github.com/rust-lang/api-guidelines
 - https://github.com/mre/idiomatic-rust
+- https://rustwiki.org/zh-CN/rust-by-example/std_misc/fs.html

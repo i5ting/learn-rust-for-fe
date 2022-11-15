@@ -4,6 +4,10 @@
 
 ## rustdoc
 
+- https://doc.rust-lang.org/std/
+- https://docs.rs/
+
+
 ## cargo
 
 ## 断点调试
