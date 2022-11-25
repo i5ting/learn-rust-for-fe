@@ -30,3 +30,7 @@ https://github.com/JoshMcguigan/cargo-run-script/blob/master/src/main.rs
 ## 序列化
 
 https://github.com/serde-rs/serde
+
+## xshell
+
+https://github.com/matklad/xshell

@@ -7,3 +7,6 @@ https://rust-lang.github.io/async-book/
 - smol: A small, simplified async runtime. Provides the Async trait that can be used to wrap structs like UnixStream or TcpListener.
 - fuchsia-async: An executor for use in the Fuchsia OS.
 - The Futures Crate
+- https://github.com/dtolnay/async-trait
+- https://async.rs/
+- https://github.com/skyao/learning-rust
