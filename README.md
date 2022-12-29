@@ -54,8 +54,25 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 ## 生态
 
 - https://github.com/actix/actix Actor framework for Rust
+- https://github.com/async-rs/async-std Async version of the Rust standard library
 - https://github.com/rust-lang/cargo The Rust package manager
+- https://github.com/crossbeam-rs/crossbeam Tools for concurrent programming in Rust
+- https://github.com/denoland/rusty_v8 Rust bindings for the V8 JavaScript engine
+- https://github.com/denoland/deno_lint Blazing fast linter for JavaScript and TypeScript written in Rust
+- https://github.com/denoland/deno_bindgen Simplified glue code generation for Deno FFI libraries written in Rust.
+- https://github.com/napi-rs/napi-rs A framework for building compiled Node.js add-ons in Rust via Node-API
+- https://github.com/infinyon/node-bindgen Easy way to write Node.js module using Rust
+- https://github.com/rayon-rs/rayon Rayon: A data parallelism library for Rust
+- https://github.com/SergioBenitez/Rocket A web framework for Rust.
+- https://github.com/Amanieu/parking_lot Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - https://github.com/rustdesk/rustdesk Yet another remote desktop software
+- https://github.com/rust-lang/rust-bindgen Automatically generates Rust FFI bindings to C (and some C++) libraries.
+- https://github.com/serde-rs/serde Serialization framework for Rust
+- https://github.com/tauri-apps/tauri Build smaller, faster, and more secure desktop applications with a web frontend.
+- https://github.com/tokio-rs/tokio A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- https://github.com/rustwasm/wasm-bindgen Facilitating high-level interactions between Wasm modules and JavaScript
+
+
 
 ## 工具
 
