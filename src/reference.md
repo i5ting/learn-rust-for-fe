@@ -1,7 +1,8 @@
-# refference
+# reference
 
-- https://doc.rust-lang.org/book
-- cargo book
+- https://doc.rust-lang.org/book cargo book
+- https://doc.rust-lang.org/nomicon/index.html nomicon
+- https://github.com/rust-lang/rustlings/ learn by complete rustlings
 - https://rust-unofficial.github.io/patterns/
 - https://danielkeep.github.io/tlborm/book/mbe-macro-rules.html
 - https://rust-lang.github.io/api-guidelines/about.html
