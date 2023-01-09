@@ -44,6 +44,7 @@ Rust 语言在前端工具链的影响越来越大，目前可以看到 Next.js 
 - https://github.com/devongovett/tree-sitter-highlight A syntax highlighter for Node powered by Tree Sitter. Written in Rust.
 - https://github.com/flo-l/jsonpp-rs UNIX style tool to pretty print json
 - https://turbo.build/pack 对标 webpack 和 vite
+- https://github.com/wooorm/mdxjs-rs markdown扩展
 
 ## 开发者
 
